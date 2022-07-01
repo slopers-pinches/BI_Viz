@@ -17,9 +17,9 @@ On Tableau, I created a dashboard to illustrate the top 10 countries of players 
 
 Here are the key highlights I learned when building the Tableau dashboard:
   * Import an Excel workbook, PDF file, and KML file
-  * Create the main data source by unionizing the 2 worksheets from the Excel workbook and join (left join) the data tables from the PDF file
+  * Create the main data source by unionizing the 2 worksheets from the Excel workbook and join (left join) the main data source with the data tables from the PDF file
   * Conduct data pre-processing and mainpulation via calculated fields method (e.g. split columns, alias data, change data types, etc.) in the main data source
-  * Combine the main data source to spatial file (KML file) through data blend method to create a choropleth map
+  * Combine the main data source with the spatial file (KML file) through data blend method to create a choropleth map
   * Create a set for the choropleth map to show the Top 10 Countries by the sum of players' values by country
   * Create a crosstab to show a table of Clubs, Players' Name, and Players' Value from the choropleth map
   * Format the choropleth map and crosstab table
