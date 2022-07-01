@@ -13,7 +13,7 @@ Personal BI Visualization Projects
 
 **Summary**:
 
-On Tableau, I created a dashboard to illustrate the top 10 countries of players playing in English football leagues (English Premier League, English Championship, League 1, etc.) by players' values. The dashboard is interactive where a user can see where highly valued players are from and what club they are playing for during 2018-19 season. The data is a collection from several data sources.
+On Tableau, I created a dashboard to illustrate the top 10 countries of players playing in the English football leagues (English Premier League, English Championship, League 1, etc.) by players' values. The dashboard is interactive where a user can see who are the highly valued players, where they are from, and what club they play for during 2018-19 season.
 
 Here are the key highlights I learned when building the Tableau dashboard:
   * Import an Excel workbook, PDF file, and KML file
