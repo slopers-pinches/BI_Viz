@@ -8,6 +8,9 @@ Personal BI Visualization Projects
 
 [Link to Dashboard](https://public.tableau.com/views/Top10CountriesbyPlayerValueinEnglishFootballDashboard/Top10CountriesbyPlayerValueDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 
+![Top 10 Countries by Player Value in English Football](https://user-images.githubusercontent.com/71954989/176973841-62f19c60-21b3-4d6b-8942-f94ebb1e64d0.gif)
+
+
 **Summary**:
 
 On Tableau, I created a dashboard to illustrate the top 10 countries of players playing in English football leagues (English Premier League, English Championship, League 1, etc.) by players' values. The dashboard is interactive where a user can see where highly valued players are from and what club they are playing for during 2018-19 season. The data is a collection from several data sources.
