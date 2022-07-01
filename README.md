@@ -4,7 +4,7 @@ Personal BI Visualization Projects
 
 ## Dashboards
 
-1) [***Top 10 Countries by Player Value in English Football***]
+1) [***Top 10 Countries by Player Value in English Football***](https://github.com/slopers-pinches/BI_Viz/tree/main/Top%2010%20Countries%20by%20Player%20Value%20in%20English%20Football%20Project)
 
 [Link to Dashboard](https://public.tableau.com/views/Top10CountriesbyPlayerValueinEnglishFootballDashboard/Top10CountriesbyPlayerValueDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 
